@@ -17,5 +17,3 @@ This dashboard was built for **The Analyst Challenge – March 2025** by MAZHOCO
 
 - **Python (Pandas, NumPy, Matplotlib, Seaborn)** – Data cleaning, transformation
 - **Power BI** – Dashboard creation & data visualization  
-- **Excel** – Data preparation & cleaning  
-- **PDF** – Summary report output  
