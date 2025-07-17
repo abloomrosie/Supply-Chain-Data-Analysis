@@ -1,6 +1,3 @@
-# Supply-Chain-Data-Analysis
-This project uses Power BI to analyze key supply chain and sales metrics—like revenue, delivery times, and customer behavior—to help businesses optimize operations, improve customer satisfaction, and support strategic decision-making.
-
 # 📦 Supply Chain & Sales Analytics Dashboard
 
 A Power BI project analyzing supply chain operations and sales performance for a retail company. This dashboard helps identify key trends, optimize logistics, improve customer experience, and drive strategic decision-making.
